@@ -11,7 +11,12 @@
 - 🌱 Активно ищу работу
 - ☀️  Живу на Кипре 
 - ⚡ Бывший инженер-электроэнергетик
-- 📫 Связаться со мной можно в [телеграмме](https://t.me/+79992398088)
+- 📫 Связаться со мной можно в [телеграмме](https://t.me/+79992398088) 
 
+---
+
+### :hammer_and_wrench: Технологичейский стек :
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=SemaJenya&style=flat-square&color=blue" alt=""/>
 
