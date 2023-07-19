@@ -5,8 +5,7 @@
     <h1>Привет! Меня зовут Женя</h1>   
     <h2>Я начинающий front-end разработчик 
         <img src="https://media2.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif?cid=ecf05e47vcogbulcxam83wvx4me4qcwsasqykde0jaoyhkgf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" />
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dqNzZ2d291MW96Nm56dmhwbnk1aXlkenk0NWpwdzhlenZtYXhpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="50" />
-         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRsaGJ6cTlrbjFmMWlxNHkxZG9hOTVsNDdxcWdjaTRuZ3lqMHJicCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dMLmQfCO7lCA2gX3tw/giphy.gif" width="50" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p2bXJjZ2FwZ21ib285MHlyYXFkMHU3OHh2YzFlamhlYmJ4N3FqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/XH9wwXfUXu91wAJwN5/giphy.gif" width="50" />
       Живу на Кипре ☀️
     </h2>   
 </div>
