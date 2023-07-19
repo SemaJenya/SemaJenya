@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Привет! 👋 
+  
+## Меня зовут Женя ✨. Я начинающий front-end разработчик. Живу на Кипре ☀️
 <!--
 **SemaJenya/SemaJenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
