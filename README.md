@@ -1,12 +1,12 @@
-### Привет! 👋 
+# Привет! 👋  Меня зовут Женя
   
-## Меня зовут Женя ✨. Я начинающий front-end разработчик. Живу на Кипре ☀️
-<!--
-**SemaJenya/SemaJenya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Я начинающий front-end разработчик ✨ Живу на Кипре ☀️
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/L2SfTHdXDS98D4jfK6/giphy.gif?cid=ecf05e47bk14n36hayt7hbjz76rtjprpyig0x6ovo2p6h25v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
+</div>
 
-- 🔭 I’m currently working on ...
+- 🔭 Успешно закончила курсы "Front-end разрабочик Bootcamp" от Я.Практикума. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
